@@ -1,2 +1,5 @@
 # Princeton-Java-OOP2
-Object Oriented Programming assignment (part 2) from Princeton University Java course 
+
+Following repository contains solutions to assignments that are part of Java course offered by Princeton University at Coursera: https://www.coursera.org/learn/cs-programming-java
+
+Detailed description of an assignment: https://coursera.cs.princeton.edu/introcs/assignments/oop2/specification.php
